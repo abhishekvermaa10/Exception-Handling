@@ -14,6 +14,6 @@ public class CustomResource implements AutoCloseable {
 	}
 
 	public void close() {
-		System.out.println("Custom Resource stoped");
+		System.out.println("Custom Resource finished");
 	}
 }

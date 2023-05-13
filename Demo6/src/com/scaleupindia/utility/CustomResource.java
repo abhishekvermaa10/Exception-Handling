@@ -5,7 +5,7 @@ package com.scaleupindia.utility;
  *
  */
 public class CustomResource {
-	public void start() {
+	public CustomResource() {
 		System.out.println("Custom Resource started");
 	}
 
@@ -14,6 +14,6 @@ public class CustomResource {
 	}
 
 	public void close() {
-		System.out.println("Custom Resource closed");
+		System.out.println("Custom Resource finished");
 	}
 }

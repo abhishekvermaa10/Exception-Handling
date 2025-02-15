@@ -1,9 +1,0 @@
-Demo0 - Scenario without Exception Handling
-Demo1 - Handling exceptions and Understanding various ways to show messages in catch block
-Demo2 - Handling multiple exceptions using multiple catch blocks and multi-catch block
-Demo3 - Propagating exception to calling class
-Demo4 - Understanding throw keyword
-Demo5 - Understanding throws keyword
-Demo6 - Understanding try-catch-finally
-Demo7 - Utilizing try-with-resources
-Demo8 - Creating and handling custom exception

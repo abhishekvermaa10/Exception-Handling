@@ -31,7 +31,8 @@
 <p align="justify">
     Before diving into Exception Handling, ensure you're comfortable with the following concepts:
 <ul>
-    <li>Java Basics</li>
+    <li><a href="https://abhishekvermaa10.github.io/Java Basics"
+        target="_blank">Java Basics</a></li>
 </ul>
 You can learn these topics from my YouTube channel through dedicated playlists.
 </p>
